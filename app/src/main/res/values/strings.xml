@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuessingNumber</string>
+    <string name="down">Down</string>
+    <string name="up">Up</string>
+    <string name="check">Check</string>
+    <string name="reset_number">Reset Number</string>
+    <string name="is_your_number">Is your Number %d?</string>
+    <string name="your_number_is">Your number is %d!</string>
+</resources>
