@@ -6,4 +6,8 @@
     <string name="reset_number">Reset Number</string>
     <string name="is_your_number">Is your Number %d?</string>
     <string name="your_number_is">Your number is %d!</string>
+    <string name="first_think_about_the_number_to_be_guessed_and_then_there_will_be_a_question_you_must_answer_it_by_clicking_the_higher_button_or_lower_button">First think about the number to be Guessed and then There will be a Question you must answer it by clicking the Higher button or Lower button.</string>
+    <string name="start_playing">Start Playing</string>
+    <string name="how_to_play">How to Play? :</string>
+    <string name="guess_the_number">Guess the Number</string>
 </resources>
